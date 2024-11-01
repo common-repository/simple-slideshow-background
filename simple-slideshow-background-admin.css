@@ -1,0 +1,27 @@
+root { 
+  display: block;
+}
+
+#diy-instructions-form{
+  width:1200px;
+}
+
+table.wp-list-table{
+  table-layout:auto;
+}
+
+td.column-number{
+  width:75px;
+}
+
+td.column-text{
+  width:800px;
+}
+
+td.column-picture{
+  /*text-align: right;*/
+}
+
+img.ssb-admin-img {
+  max-height: 200px;
+}
